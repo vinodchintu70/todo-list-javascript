@@ -36,3 +36,7 @@ A simple To-Do List application built using HTML, CSS, and JavaScript.
 1. Download or clone this repository.
 2. Open `index.html` in a browser.
 3. Start adding tasks.
+
+## Screenshot
+
+![To-Do List Screenshot](Screenshot%202026-09-06%20002334.png)
